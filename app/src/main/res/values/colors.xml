@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#514644</color>
+    <color name="colorPrimaryDark">#514644</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="light">#fffae3</color>
+    <color name="l1">#effae7</color>
+    <color name="l2">#00E5FF</color>
+    <color name="l3">#A7FFEB</color>
+    <color name="lightgreen">#515DE9B6</color>
+    <color name="green">#1DE9B6</color>
+    <color name="red">#ff12</color>
+    <color name="black">#000</color>
+    <color name="white">#ffff</color>
+    <color name="mycolor">#57bc90</color>
+    <color name="mycolor2">#efc8b1</color>
+    <color name="mycolor3">#514644</color>
+    <color name="mycolor4">#808080</color>
+    <color name="myfav">#FFCDD2</color>
+    <color name="myfav2">#E57373</color>
+    <color name="myfav3">#ece3f3</color>
+    <color name="success">#00B74A</color>
+    <color name="pink1">#F8BBD0</color>
+    <color name="dark">#006064</color>
+    <color name="dark1">#00796B</color>
+    <color name="dark2">#1A237E</color>
+    <color name="brown">#795548</color>
+    <color name="pink2">#FCE4EC</color>
+    <color name="f">#A1887F</color>
+    <color name="cyan">#84FFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orangedark">#E65100</color>
+    <color name="orange">#FF6D00</color>
+    <color name="greenish">#76FF03</color>
+</resources>
